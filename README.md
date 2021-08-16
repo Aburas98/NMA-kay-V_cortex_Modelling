@@ -5,4 +5,4 @@ Although the R2 score is not significant, it can be used in the future for educa
 Some recommendations include but not limited to: Changing the encoding method for categorical variables to a more representative one;
 Increasing the number of independent variables; using a decoding model (Classsification instead of regression);
 trying a different model or regularization penalty term. 
-Deep learning models perform much better than GLM, due to lack of interpretibility, GLM make a great tool.
+Deep learning models perform much better than GLM, however, due to higher interpretibility of GLM, they make a great tool to infer conclusions about the brain.
